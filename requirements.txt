@@ -1,4 +1,4 @@
 Django==5.0.4
 
 
-# esto es una prueba
+# esto es una prue
